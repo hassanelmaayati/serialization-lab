@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# SQLite DB (created at runtime)
+*.db
+
+# IDE
+.vscode/
+.idea/
